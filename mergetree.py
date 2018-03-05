@@ -1,5 +1,5 @@
 def mergeTree(self,t1, t2):
-    #t1 and t2 are tree nodes
+    
     if t1 is None:
         return t2
     if t2 is None:
